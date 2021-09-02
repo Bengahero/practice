@@ -1,25 +1,6 @@
 [ {
-  "buildOrder" : 2,
-  "reportUrl" : "https://Bengahero.github.io/practice/2/",
-  "reportName" : "Allure Report with history",
   "data" : {
-    "run" : 1,
-    "retry" : 0
-  }
-}, {
-  "buildOrder" : 2,
-  "reportUrl" : "https://Bengahero.github.io/practice/2/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 1,
-    "retry" : 0
-  }
-}, {
-  "buildOrder" : 1,
-  "reportUrl" : "https://Bengahero.github.io/practice/1/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 1,
+    "run" : 0,
     "retry" : 0
   }
 } ]

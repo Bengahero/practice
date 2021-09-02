@@ -1,18 +1,5 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
-  "children" : [ {
-    "name" : "checkTitleAndUrlTest()",
-    "uid" : "302419c2e806c5d3",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
-    "time" : {
-      "start" : 1630594107352,
-      "stop" : 1630594118143,
-      "duration" : 10791
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ ]
-  } ],
+  "children" : [ ],
   "name" : "behaviors"
 }

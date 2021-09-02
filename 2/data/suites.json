@@ -1,22 +1,5 @@
 {
   "uid" : "98d3104e051c652961429bf95fa0b5d6",
-  "children" : [ {
-    "name" : "Tests.Tests",
-    "children" : [ {
-      "name" : "checkTitleAndUrlTest()",
-      "uid" : "302419c2e806c5d3",
-      "parentUid" : "779238f160d20968b82eb32aa668f856",
-      "status" : "passed",
-      "time" : {
-        "start" : 1630594107352,
-        "stop" : 1630594118143,
-        "duration" : 10791
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "parameters" : [ ]
-    } ],
-    "uid" : "779238f160d20968b82eb32aa668f856"
-  } ],
+  "children" : [ ],
   "name" : "suites"
 }
