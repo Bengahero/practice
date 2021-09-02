@@ -26,5 +26,6 @@ public class BaseTest {
         driver.manage().window().maximize();
         homePage = new HomePage(driver);
 
+
     }
 }
