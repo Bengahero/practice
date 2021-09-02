@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Sep 02 14:24:56 GMT 2021","Thu Sep 02 14:25:05 GMT 2021","8830","","Tests.Tests","","Tests.Tests","checkTitleAndUrlTest","checkTitleAndUrlTest()",""
