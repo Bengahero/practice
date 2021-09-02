@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Tests.Tests",
+    "children" : [ {
+      "name" : "checkTitleAndUrlTest()",
+      "uid" : "9d8339f9cc1e9415",
+      "parentUid" : "779238f160d20968b82eb32aa668f856",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630593678788,
+        "stop" : 1630593681987,
+        "duration" : 3199
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "779238f160d20968b82eb32aa668f856"
+  } ],
+  "name" : "suites"
+}

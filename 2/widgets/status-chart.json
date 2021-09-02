@@ -1,0 +1,11 @@
+[ {
+  "uid" : "9d8339f9cc1e9415",
+  "name" : "checkTitleAndUrlTest()",
+  "time" : {
+    "start" : 1630593678788,
+    "stop" : 1630593681987,
+    "duration" : 3199
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

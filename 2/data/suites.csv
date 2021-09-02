@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 02 14:41:18 GMT 2021","Thu Sep 02 14:41:21 GMT 2021","3199","","Tests.Tests","","Tests.Tests","checkTitleAndUrlTest","checkTitleAndUrlTest()",""
