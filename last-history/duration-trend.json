@@ -3,6 +3,13 @@
   "reportUrl" : "https://Bengahero.github.io/practice/2/",
   "reportName" : "Allure Report with history",
   "data" : {
+    "duration" : 10791
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "https://Bengahero.github.io/practice/2/",
+  "reportName" : "Allure Report with history",
+  "data" : {
     "duration" : 3199
   }
 }, {

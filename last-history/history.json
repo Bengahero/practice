@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "302419c2e806c5d3",
+      "reportUrl" : "https://Bengahero.github.io/practice/2//#testresult/302419c2e806c5d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1630594107352,
+        "stop" : 1630594118143,
+        "duration" : 10791
+      }
+    }, {
       "uid" : "9d8339f9cc1e9415",
       "reportUrl" : "https://Bengahero.github.io/practice/2//#testresult/9d8339f9cc1e9415",
       "status" : "passed",

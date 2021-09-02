@@ -4,13 +4,13 @@
     "name" : "Tests.Tests",
     "children" : [ {
       "name" : "checkTitleAndUrlTest",
-      "uid" : "9d8339f9cc1e9415",
+      "uid" : "302419c2e806c5d3",
       "parentUid" : "a5375b469116992596447fdafee8f702",
       "status" : "passed",
       "time" : {
-        "start" : 1630593678788,
-        "stop" : 1630593681987,
-        "duration" : 3199
+        "start" : 1630594107352,
+        "stop" : 1630594118143,
+        "duration" : 10791
       },
       "flaky" : false,
       "newFailed" : false,
